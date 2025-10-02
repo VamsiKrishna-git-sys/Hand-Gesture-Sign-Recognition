@@ -19,7 +19,7 @@ It can detect and classify Numbers (0–9), Alphabets (A–Z), and Daily Action 
 
 
 # 📂 Project Structure
-├── newslr.py                    # Main script (menu-driven system)
+├── Code.py                    # Main script (menu-driven system)
 
 ├── hand_sign_data_full.pkl      # Saved dataset (generated after collection)
 
@@ -46,7 +46,7 @@ It can detect and classify Numbers (0–9), Alphabets (A–Z), and Daily Action 
 
 - Run the program:
 
-  python newslr.py
+  python Code.py
 
 # Menu Options
 
